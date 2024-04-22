@@ -1,0 +1,5 @@
+"use strict";
+let names = ['Afifa', 'Warda', 'Bilques', 'sadiqa',];
+for (let index = 0; index < names.length; index++) {
+    console.log(names[index]);
+}
