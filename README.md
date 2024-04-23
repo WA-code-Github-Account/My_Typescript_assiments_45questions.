@@ -2,8 +2,8 @@
 - 👀 I’m interested in exploring the intersection of AI and web development.
 - 🌱 I'm aspiring AI engineer with a passionfor learning and creating. I’m currently learning Typesscript 
 - 💞️ I’m always looking for new opportunities to collaborate on interesting projects,If you're interestedin working with me,please feel free to reach out.
-- 📫 How to reach me :  
--                     : 
+- 📫 How to reach me :  https://github.com/WA-code-Github-Account/WA-code-Github-Account?search=1
+-                     :   
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Iam from Pakistan
 
