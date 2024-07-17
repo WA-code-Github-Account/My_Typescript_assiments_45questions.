@@ -10,7 +10,7 @@ if (alien_color === 'green') {
 } 
 else 
 {
-    console.log("\n\nPlayer just earned 0 ruppes!");
+    console.log("\n\nPlayer just earned 10 ruppes!");
 }
 
 
@@ -22,6 +22,6 @@ if (alien_color === 'green') {
     console.log("\n\nPlayer just earned 5 ruppe for shooting the alien!\n");
 } else {
     
-    console.log("\n\nPlayer just earned 0 ruppes!");
+    console.log("\n\nPlayer just earned `0 ruppes!");
 
 }
