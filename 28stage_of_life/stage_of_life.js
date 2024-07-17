@@ -7,7 +7,7 @@ if (age < 2) {
 else if (age >= 2 && age < 4) {
     console.log("The person is a toddler.");
 }
-else if (age >= 4 && age < 12) {
+else if (age >= 4 && age < 13) {
     console.log("The person is a kid.");
 }
 else if (age >= 13 && age < 20) {
