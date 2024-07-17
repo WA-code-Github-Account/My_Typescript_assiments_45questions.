@@ -18,4 +18,5 @@ if (alien_color === 'green') {
 if (alien_color === 'green') {
  
     console.log("Player just earned 5 Ruppe!");
-}
+} 
+ //this code can not be run bcuz the condition is false .
