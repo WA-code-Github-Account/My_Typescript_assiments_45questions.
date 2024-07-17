@@ -23,8 +23,8 @@ alienColor = "yellow";
 if (alienColor === "yellow") {
     console.log("version 2:The player earned 10 points.");
 }
-else if (alienColor === "yellow") {
-    console.log("The player earned 10 points.");
+else if (alienColor === "green") {
+    console.log("The player earned 5 points.");
 }
 else if (alienColor === "red") {
     console.log("The player earned 15 points.");
@@ -41,8 +41,8 @@ if (alienColor === "red") {
 else if (alienColor === "yellow") {
     console.log("The player earned 10 points.");
 }
-else if (alienColor === "red") {
-    console.log("The player earned 15 points.");
+else if (alienColor === "green") {
+    console.log("The player earned 5 points.");
 }
 else {
     console.log("Unknown alien color.");
